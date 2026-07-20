@@ -1,5 +1,6 @@
 ---
 title: "普通の SWI-Prolog 入門"
+permalink: /
 ---
 
 # 普通の SWI-Prolog 入門
