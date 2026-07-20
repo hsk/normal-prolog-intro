@@ -5,6 +5,9 @@ permalink: /
 
 # 普通の SWI-Prolog 入門
 
+[![Deploy Jekyll site to Pages](https://github.com/hsk/normal-prolog-intro/actions/workflows/pages.yml/badge.svg)](https://github.com/hsk/normal-prolog-intro/actions/workflows/pages.yml)
+[![View site](https://img.shields.io/badge/view-site-blue)](https://hsk.github.io/normal-prolog-intro/)
+
 ## [1. はじめの一歩：Hello World](1.md)
 
 - インストール: SWI-Prologの導入手順
