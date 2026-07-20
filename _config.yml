@@ -1,4 +1,5 @@
 title: "普通の SWI-Prolog 入門"
+repository: hsk/normal-prolog-intro
 theme: jekyll-theme-cayman
 markdown: kramdown
 lang: ja
